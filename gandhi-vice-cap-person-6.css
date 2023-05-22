@@ -1,0 +1,474 @@
+.vice-captains3 {
+  position: relative;
+  letter-spacing: 0.04em;
+  font-weight: 800;
+  -webkit-text-stroke: 1px #000;
+}
+.vice-captains-wrapper1 {
+  position: absolute;
+  top: calc(50% - 446px);
+  left: calc(50% - 608px);
+  border-radius: var(--br-13xl);
+  background-color: var(--color-red-100);
+  border: 1px solid var(--color-snow-200);
+  box-sizing: border-box;
+  width: 1215px;
+  height: 81px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-fira-sans-extra-condensed);
+}
+.vector-icon48 {
+  position: absolute;
+  top: 239.83px;
+  left: 102.96px;
+  width: 188.33px;
+  height: 156.14px;
+}
+.gandhi-vice-cap-person-6-child {
+  position: absolute;
+  top: 235px;
+  left: 125px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.undraw-pic-profile-re-7g2h-1-icon8 {
+  position: absolute;
+  top: 221px;
+  left: 129px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-116 {
+  position: relative;
+  display: inline-block;
+  width: 127px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.component-2-child14,
+.person-1-wrapper5 {
+  position: absolute;
+  background-color: var(--color-white);
+  box-sizing: border-box;
+}
+.person-1-wrapper5 {
+  top: 309px;
+  left: 341px;
+  border-radius: var(--br-4xl);
+  width: 271px;
+  height: 33px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  align-items: center;
+  justify-content: center;
+}
+.component-2-child14 {
+  height: 135.9%;
+  width: 107.73%;
+  top: -17.95%;
+  right: -3.87%;
+  bottom: -17.95%;
+  left: -3.87%;
+  border-radius: var(--br-10xs);
+  border: 7px solid var(--color-red-200);
+}
+.vote88,
+.vote89 {
+  position: absolute;
+  top: 11.48%;
+  left: 26.5%;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-overpass-mono);
+  color: var(--color-black);
+  text-align: left;
+}
+.vote89 {
+  top: 1.22%;
+  left: 29.26%;
+  font-size: var(--font-size-13xl);
+  text-align: center;
+}
+.component-28 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 249px;
+  left: 383px;
+  width: 181px;
+  height: 39px;
+}
+.vector-icon49 {
+  position: absolute;
+  top: 470.49px;
+  left: 104.38px;
+  width: 186.42px;
+  height: 163.97px;
+}
+.gandhi-vice-cap-person-6-item {
+  position: absolute;
+  top: 474.95px;
+  left: 125.23px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.undraw-pic-profile-re-7g2h-2-icon8 {
+  position: absolute;
+  top: 460.95px;
+  left: 129.23px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-325 {
+  position: relative;
+  display: inline-block;
+  width: 115px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.person-3-wrapper6 {
+  position: absolute;
+  top: 548.95px;
+  left: 341.23px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 271px;
+  height: 33px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.component-3-child6 {
+  position: absolute;
+  height: 135.9%;
+  width: 107.73%;
+  top: -17.95%;
+  right: -3.87%;
+  bottom: -17.95%;
+  left: -3.87%;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-snow-100);
+  border: 7px solid var(--color-red-200);
+  box-sizing: border-box;
+}
+.component-38 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 488.95px;
+  left: 383.23px;
+  width: 181px;
+  height: 39px;
+}
+.vector-icon50 {
+  position: absolute;
+  top: 221.41px;
+  left: 841.56px;
+  width: 182.3px;
+  height: 180.1px;
+}
+.gandhi-vice-cap-person-6-inner {
+  position: absolute;
+  top: 234.95px;
+  left: 861.23px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.undraw-pic-profile-re-7g2h-3-icon8 {
+  position: absolute;
+  top: 220.95px;
+  left: 865.23px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-227 {
+  position: relative;
+  display: inline-block;
+  width: 126px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.person-2-wrapper6 {
+  position: absolute;
+  top: 308.95px;
+  left: 1077.23px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 271px;
+  height: 33px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.component-48 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 248.95px;
+  left: 1119.23px;
+  width: 181px;
+  height: 39px;
+}
+.vector-icon51 {
+  position: absolute;
+  top: 471.93px;
+  left: 840.42px;
+  width: 186.75px;
+  height: 162.26px;
+}
+.gandhi-vice-cap-person-6-child1 {
+  position: absolute;
+  top: 474.9px;
+  left: 861.46px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.undraw-pic-profile-re-7g2h-4-icon8 {
+  position: absolute;
+  top: 460.9px;
+  left: 865.46px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-416 {
+  position: relative;
+  display: inline-block;
+  width: 130px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.person-4-wrapper6 {
+  position: absolute;
+  top: 548.9px;
+  left: 1077.46px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 271px;
+  height: 33px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.component-58 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 488.9px;
+  left: 1119.46px;
+  width: 181px;
+  height: 39px;
+}
+.vector-icon52 {
+  position: absolute;
+  top: 748.29px;
+  left: 104.79px;
+  width: 185.55px;
+  height: 168.72px;
+}
+.gandhi-vice-cap-person-6-child2 {
+  position: absolute;
+  top: 756px;
+  left: 125.23px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.undraw-pic-profile-re-7g2h-5-icon8 {
+  position: absolute;
+  top: 742px;
+  left: 129.23px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-520 {
+  position: relative;
+  display: inline-block;
+  width: 123px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.person-5-wrapper6 {
+  position: absolute;
+  top: 830px;
+  left: 341.23px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 271px;
+  height: 33px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.component-68 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 770px;
+  left: 383.23px;
+  width: 181px;
+  height: 39px;
+}
+.vector-icon53 {
+  position: absolute;
+  top: 749.04px;
+  left: 840.92px;
+  width: 185.8px;
+  height: 167.45px;
+}
+.gandhi-vice-cap-person-6-child3 {
+  position: absolute;
+  top: 755.95px;
+  left: 861.46px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.undraw-pic-profile-re-7g2h-6-icon8 {
+  position: absolute;
+  top: 741.95px;
+  left: 865.46px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-616 {
+  position: relative;
+  display: inline-block;
+  width: 119px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.person-6-wrapper5 {
+  position: absolute;
+  top: 829.95px;
+  left: 1077.46px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 271px;
+  height: 33px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.component-7-child14 {
+  position: absolute;
+  height: 135.9%;
+  width: 107.73%;
+  top: -17.95%;
+  right: -3.87%;
+  bottom: -17.95%;
+  left: -3.87%;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-rosybrown);
+  border: 7px solid var(--color-red-200);
+  box-sizing: border-box;
+}
+.component-78 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 769.95px;
+  left: 1119.46px;
+  width: 181px;
+  height: 39px;
+}
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 47.5px);
+  border-radius: 50%;
+  background-color: var(--color-tomato);
+  width: 95px;
+  height: 93px;
+}
+.arrow-icon,
+.ellipse-parent {
+  position: absolute;
+  top: 34.95px;
+  left: calc(50% - 28.52px);
+  width: 55.54px;
+  height: 22.09px;
+}
+.ellipse-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 465px;
+  left: calc(50% - 47px);
+  width: 95px;
+  height: 93px;
+}
+.gandhi-vice-cap-person-6 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-rationale);
+}
+@media screen and (max-width: 1200px) {
+  .vice-captains-wrapper1 {
+    width: auto;
+    flex-direction: column;
+    padding-left: var(--padding-81xl);
+    padding-right: var(--padding-81xl);
+    box-sizing: border-box;
+  }
+}

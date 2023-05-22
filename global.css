@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-viga: Viga;
+  --font-share-tech: "Share Tech";
+  --font-sirinstencil: SirinStencil;
+  --font-medula-one: "Medula One";
+  --font-aubrey: Aubrey;
+  --font-tomorrow: Tomorrow;
+  --font-cairo: Cairo;
+  --font-overpass-mono: "Overpass Mono";
+  --headings-h616lh24: "Mark Black";
+  --font-inter: Inter;
+  --font-rationale: Rationale;
+  --font-fira-sans-extra-condensed: "Fira Sans Extra Condensed";
+  --font-azeret-mono: "Azeret Mono";
+  --font-turret-road: "Turret Road";
+  --font-galada: Galada;
+
+  /* font sizes */
+  --font-size-smi: 13px;
+  --font-size-21xl: 40px;
+  --font-size-29xl: 48px;
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+  --font-size-45xl: 64px;
+  --font-size-13xl: 32px;
+  --font-size-17xl: 36px;
+  --font-size-5xl: 24px;
+  --font-size-sm: 14px;
+  --headings-h616lh24-size: 16px;
+  --font-size-9xl: 28px;
+  --font-size-77xl: 96px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-whitesmoke-100: #f9f6f6;
+  --color-whitesmoke-200: rgba(240, 240, 240, 0.8);
+  --color-gray-100: rgba(255, 255, 255, 0.56);
+  --color-gray-200: rgba(255, 255, 255, 0.47);
+  --color-gray-300: rgba(255, 255, 255, 0.82);
+  --color-gray-400: rgba(255, 255, 255, 0.58);
+  --color-gray-500: rgba(255, 255, 255, 0.16);
+  --color-yellow-100: #fff500;
+  --color-yellow-200: #fbf100;
+  --color-blue: #051df8;
+  --color-blue-100: #011aff;
+  --color-red-300: #ff0606;
+  --color-red-100: #ff0505;
+  --color-red-200: #ff0000;
+  --color-red-400: rgba(246, 21, 21, 0.71);
+  --color-limegreen-100: #08c403;
+  --color-limegreen-200: #0aa906;
+  --color-blueviolet: rgba(151, 71, 255, 0.25);
+  --color-mediumspringgreen: rgba(0, 255, 178, 0.58);
+  --color-snow-100: #fffcfc;
+  --color-snow-400: #fffbfb;
+  --color-snow-200: #fff9f9;
+  --accent-500: #6bf8c5;
+  --color-gainsboro: #d9d9d9;
+  --color-mediumblue-100: #0419d9;
+  --color-tomato: #f53939;
+  --color-rosybrown: #dd8f8f;
+  --color-brown: #8e1919;
+  --color-khaki-100: #cbc75b;
+  --color-ghostwhite: #f7f1f8;
+  --color-cornflowerblue: #98a1ec;
+  --color-lightgreen: #61d05e;
+
+  /* Gaps */
+  --gap-11xs: 2px;
+
+  /* Paddings */
+  --padding-xs: 12px;
+  --padding-10xs: 3px;
+  --padding-69xl: 88px;
+  --padding-81xl: 100px;
+
+  /* border radiuses */
+  --br-23xl: 42px;
+  --br-5xl: 24px;
+  --br-smi: 13px;
+  --br-sm: 14px;
+  --br-10xs: 3px;
+  --br-4xl: 23px;
+  --br-13xl: 32px;
+  --br-45xl: 64px;
+  --br-2xl: 21px;
+}

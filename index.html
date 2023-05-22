@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Tomorrow:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Aubrey:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Viga:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Medula One:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=SirinStencil:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Share Tech:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Overpass Mono:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Mark Black:wght@900&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Fira Sans Extra Condensed:wght@800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Rationale:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Azeret Mono:wght@300;400;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Galada:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Turret Road:wght@800&display=swap"
+    />
+  </head>
+  <body>
+    <div class="landing">
+      <img
+        class="image-2-icon"
+        alt=""
+        src="./public/image-2@2x.png"
+        data-animate-on-scroll
+      />
+
+      <div class="welcome-to-sfs-container">
+        <p class="welcome-to">
+          <span>
+            <span class="welcome-to1">Welcome to</span>
+          </span>
+        </p>
+        <p class="welcome-to">
+          <span>
+            <span> SFS Indirapuram</span>
+          </span>
+          <span>
+            <span class="span4"> </span>
+          </span>
+        </p>
+      </div>
+      <div class="voting-app">Voting App</div>
+      <img
+        class="lightlamp-bulby-icon"
+        alt=""
+        src="./public/lightlamp-bulby.svg"
+      />
+
+      <img
+        class="lightlamp-bulby-icon1"
+        alt=""
+        src="./public/lightlamp-bulby1.svg"
+      />
+
+      <img
+        class="lightlamp-minimal-icon"
+        alt=""
+        src="./public/lightlamp-minimal.svg"
+      />
+
+      <img
+        class="lightlamp-minimal-icon1"
+        alt=""
+        src="./public/lightlamp-minimal.svg"
+      />
+
+      <img
+        class="lightlamp-minimal-icon2"
+        alt=""
+        src="./public/lightlamp-minimal1.svg"
+      />
+
+      <img
+        class="lightlamp-minimal-icon3"
+        alt=""
+        src="./public/lightlamp-minimal1.svg"
+      />
+
+      <img
+        class="iconlybulkarrow-right-squa"
+        alt=""
+        src="./public/iconlybulkarrow--right-square.svg"
+        id="iconlyBulkArrowRightSqua"
+      />
+    </div>
+
+    <script>
+      var iconlyBulkArrowRightSqua = document.getElementById(
+        "iconlyBulkArrowRightSqua"
+      );
+      if (iconlyBulkArrowRightSqua) {
+        iconlyBulkArrowRightSqua.addEventListener("click", function (e) {
+          window.location.href = "./voting.html";
+        });
+      }
+      var scrollAnimElements = document.querySelectorAll("[data-animate-on-scroll]");
+      var observer = new IntersectionObserver(
+        (entries) => {
+          for (const entry of entries) {
+            if (entry.isIntersecting || entry.intersectionRatio > 0) {
+              const targetElement = entry.target;
+              targetElement.classList.add("animate");
+              observer.unobserve(targetElement);
+            }
+          }
+        },
+        {
+          threshold: 0.15,
+        }
+      );
+      
+      for (let i = 0; i < scrollAnimElements.length; i++) {
+        observer.observe(scrollAnimElements[i]);
+      }
+      </script>
+  </body>
+</html>

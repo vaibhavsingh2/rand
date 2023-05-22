@@ -1,0 +1,414 @@
+.captains {
+  position: relative;
+  letter-spacing: 0.04em;
+  font-weight: 800;
+  -webkit-text-stroke: 1px #000;
+}
+.captains-wrapper {
+  position: absolute;
+  top: calc(50% - 446px);
+  left: calc(50% - 608px);
+  border-radius: var(--br-13xl);
+  background-color: var(--color-red-100);
+  border: 1px solid var(--color-snow-200);
+  box-sizing: border-box;
+  width: 1215px;
+  height: 81px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-fira-sans-extra-condensed);
+}
+.vector-icon {
+  position: absolute;
+  top: 227.51px;
+  left: 99.6px;
+  width: 190.13px;
+  height: 173.74px;
+}
+.gandhi-captain-child {
+  position: absolute;
+  top: 235px;
+  left: 125px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.undraw-pic-profile-re-7g2h-1-icon {
+  position: absolute;
+  top: 221px;
+  left: 129px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-18 {
+  position: relative;
+  display: inline-block;
+  width: 110px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.component-2-child,
+.person-1-wrapper {
+  position: absolute;
+  box-sizing: border-box;
+}
+.person-1-wrapper {
+  top: 309px;
+  left: 341px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 271px;
+  height: 33px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  align-items: center;
+  justify-content: center;
+}
+.component-2-child {
+  height: 135.9%;
+  width: 107.73%;
+  top: -17.95%;
+  right: -3.87%;
+  bottom: -17.95%;
+  left: -3.87%;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-snow-100);
+  border: 7px solid var(--color-red-200);
+}
+.vote,
+.vote1 {
+  position: absolute;
+  top: 11.48%;
+  left: 26.5%;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-overpass-mono);
+  color: var(--color-black);
+  text-align: left;
+}
+.vote1 {
+  top: 1.22%;
+  left: 29.26%;
+  font-size: var(--font-size-13xl);
+  text-align: center;
+}
+.component-2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 249px;
+  left: 383px;
+  width: 181px;
+  height: 39px;
+}
+.vector-icon1 {
+  position: absolute;
+  top: 467.46px;
+  left: 99.83px;
+  width: 190.13px;
+  height: 173.74px;
+}
+.gandhi-captain-item {
+  position: absolute;
+  top: 474.95px;
+  left: 125.23px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.person-3-wrapper,
+.undraw-pic-profile-re-7g2h-2-icon {
+  position: absolute;
+  top: 460.95px;
+  left: 129.23px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-3-wrapper {
+  top: 548.95px;
+  left: 341.23px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 271px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.component-3-child {
+  position: relative;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-snow-100);
+  border: 7px solid var(--color-red-200);
+  box-sizing: border-box;
+  width: 195px;
+  height: 53px;
+}
+.vote2 {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-overpass-mono);
+  color: var(--color-black);
+  text-align: center;
+  margin-top: -38px;
+}
+.component-3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 488.95px;
+  left: 383.23px;
+  width: 181px;
+  height: 39px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.vector-icon2 {
+  position: absolute;
+  top: 227.46px;
+  left: 835.83px;
+  width: 190.13px;
+  height: 173.74px;
+}
+.gandhi-captain-inner {
+  position: absolute;
+  top: 234.95px;
+  left: 861.23px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.person-2-wrapper,
+.undraw-pic-profile-re-7g2h-3-icon {
+  position: absolute;
+  top: 220.95px;
+  left: 865.23px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-2-wrapper {
+  top: 308.95px;
+  left: 1077.23px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 271px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.component-4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 248.95px;
+  left: 1119.23px;
+  width: 181px;
+  height: 39px;
+}
+.vector-icon3 {
+  position: absolute;
+  top: 467.41px;
+  left: 836.06px;
+  width: 190.13px;
+  height: 173.74px;
+}
+.gandhi-captain-child1 {
+  position: absolute;
+  top: 474.9px;
+  left: 861.46px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.person-4-wrapper,
+.undraw-pic-profile-re-7g2h-4-icon {
+  position: absolute;
+  top: 460.9px;
+  left: 865.46px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-4-wrapper {
+  top: 548.9px;
+  left: 1077.46px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 271px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.component-5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 488.9px;
+  left: 1119.46px;
+  width: 181px;
+  height: 39px;
+}
+.vector-icon4 {
+  position: absolute;
+  top: 748.51px;
+  left: 99.83px;
+  width: 190.13px;
+  height: 173.74px;
+}
+.gandhi-captain-child2 {
+  position: absolute;
+  top: 756px;
+  left: 125.23px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.person-5-wrapper,
+.undraw-pic-profile-re-7g2h-5-icon {
+  position: absolute;
+  top: 742px;
+  left: 129.23px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-5-wrapper {
+  top: 830px;
+  left: 341.23px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 271px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.component-6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 770px;
+  left: 383.23px;
+  width: 181px;
+  height: 39px;
+}
+.vector-icon5 {
+  position: absolute;
+  top: 748.46px;
+  left: 836.06px;
+  width: 190.13px;
+  height: 173.74px;
+}
+.gandhi-captain-child3 {
+  position: absolute;
+  top: 755.95px;
+  left: 861.46px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.undraw-pic-profile-re-7g2h-6-icon {
+  position: absolute;
+  top: 741.95px;
+  left: 865.46px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.p {
+  margin: 0;
+}
+.person-6-6-container {
+  position: relative;
+  display: inline-block;
+  width: 110px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.person-6-6-wrapper {
+  position: absolute;
+  top: 829.95px;
+  left: 1077.46px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 271px;
+  height: 33px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.component-7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 769.95px;
+  left: 1119.46px;
+  width: 181px;
+  height: 39px;
+}
+.gandhi-captain {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-rationale);
+}
+@media screen and (max-width: 1200px) {
+  .captains-wrapper {
+    width: auto;
+    flex-direction: column;
+    padding-left: var(--padding-81xl);
+    padding-right: var(--padding-81xl);
+    box-sizing: border-box;
+  }
+}

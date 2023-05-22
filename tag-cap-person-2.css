@@ -1,0 +1,465 @@
+.captains27 {
+  position: relative;
+  letter-spacing: 0.04em;
+  font-weight: 800;
+  -webkit-text-stroke: 1px #000;
+}
+.captains-wrapper24 {
+  position: absolute;
+  top: calc(50% - 446px);
+  left: calc(50% - 608px);
+  border-radius: var(--br-13xl);
+  background-color: var(--color-yellow-200);
+  border: 1px solid var(--color-snow-200);
+  box-sizing: border-box;
+  width: 1215px;
+  height: 81px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-fira-sans-extra-condensed);
+}
+.vector-icon288 {
+  position: absolute;
+  top: 227.51px;
+  left: 99.6px;
+  width: 190.13px;
+  height: 173.74px;
+}
+.tag-cap-person-2-child {
+  position: absolute;
+  top: 235px;
+  left: 125px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.undraw-pic-profile-re-7g2h-1-icon48 {
+  position: absolute;
+  top: 221px;
+  left: 129px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-156 {
+  position: relative;
+  display: inline-block;
+  width: 110px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.person-1-wrapper45 {
+  position: absolute;
+  top: 309px;
+  left: 341px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 271px;
+  height: 33px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.group-child81 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 47.5px);
+  border-radius: 50%;
+  background-color: var(--color-yellow-200);
+  width: 95px;
+  height: 93px;
+}
+.group-child82 {
+  position: absolute;
+  top: 34.95px;
+  left: calc(50% - 28.52px);
+  width: 55.54px;
+  height: 22.09px;
+}
+.ellipse-parent38 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 465px;
+  left: calc(50% - 47px);
+  width: 95px;
+  height: 93px;
+}
+.component-2-child94 {
+  position: absolute;
+  height: 135.9%;
+  width: 107.73%;
+  top: -17.95%;
+  right: -3.87%;
+  bottom: -17.95%;
+  left: -3.87%;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  border: 7px solid var(--color-yellow-200);
+  box-sizing: border-box;
+}
+.vote527,
+.vote528 {
+  position: absolute;
+  top: 11.48%;
+  left: 26.5%;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-overpass-mono);
+  color: var(--color-black);
+  text-align: left;
+}
+.vote528 {
+  top: 1.22%;
+  left: 29.26%;
+  font-size: var(--font-size-13xl);
+  text-align: center;
+}
+.component-248 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-yellow-200);
+  position: absolute;
+  top: 249px;
+  left: 383px;
+  width: 181px;
+  height: 39px;
+}
+.vector-icon289 {
+  position: absolute;
+  top: 467.46px;
+  left: 99.83px;
+  width: 190.13px;
+  height: 173.74px;
+}
+.tag-cap-person-2-item {
+  position: absolute;
+  top: 474.95px;
+  left: 125.23px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.person-3-wrapper46,
+.undraw-pic-profile-re-7g2h-2-icon48 {
+  position: absolute;
+  top: 460.95px;
+  left: 129.23px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-3-wrapper46 {
+  top: 548.95px;
+  left: 341.23px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 271px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.component-348 {
+  position: absolute;
+  top: 488.95px;
+  left: 383.23px;
+  width: 181px;
+  height: 39px;
+}
+.tag-cap-person-2-inner {
+  position: absolute;
+  height: 5.18%;
+  width: 13.54%;
+  top: 47.07%;
+  right: 60.33%;
+  bottom: 47.76%;
+  left: 26.13%;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white);
+  border: 7px solid var(--color-yellow-200);
+  box-sizing: border-box;
+}
+.vote529 {
+  position: absolute;
+  top: 47.8%;
+  left: 30.29%;
+  font-family: var(--font-overpass-mono);
+  text-align: center;
+}
+.vector-icon290 {
+  position: absolute;
+  top: 227.46px;
+  left: 835.83px;
+  width: 190.13px;
+  height: 173.74px;
+}
+.tag-cap-person-2-child1 {
+  position: absolute;
+  top: 234.95px;
+  left: 861.23px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.undraw-pic-profile-re-7g2h-3-icon48 {
+  position: absolute;
+  top: 220.95px;
+  left: 865.23px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-267 {
+  position: relative;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-rationale);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 110px;
+  height: 37px;
+  flex-shrink: 0;
+}
+.component-4-child94,
+.frame-button {
+  position: absolute;
+  box-sizing: border-box;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  background-color: var(--color-white);
+  top: 308.95px;
+  left: 1077.23px;
+  border-radius: var(--br-4xl);
+  width: 271px;
+  height: 33px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.component-4-child94 {
+  height: 135.9%;
+  width: 107.73%;
+  top: -17.95%;
+  right: -3.87%;
+  bottom: -17.95%;
+  left: -3.87%;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-khaki-100);
+  border: 7px solid var(--color-yellow-200);
+}
+.component-448 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 248.95px;
+  left: 1119.23px;
+  width: 181px;
+  height: 39px;
+}
+.vector-icon291 {
+  position: absolute;
+  top: 467.41px;
+  left: 836.06px;
+  width: 190.13px;
+  height: 173.74px;
+}
+.tag-cap-person-2-child2 {
+  position: absolute;
+  top: 474.9px;
+  left: 861.46px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.person-4-wrapper46,
+.undraw-pic-profile-re-7g2h-4-icon48 {
+  position: absolute;
+  top: 460.9px;
+  left: 865.46px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-4-wrapper46 {
+  top: 548.9px;
+  left: 1077.46px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 271px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.component-5-child94 {
+  position: absolute;
+  height: 135.9%;
+  width: 107.73%;
+  top: -17.95%;
+  right: -3.87%;
+  bottom: -17.95%;
+  left: -3.87%;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-snow-100);
+  border: 7px solid var(--color-yellow-200);
+  box-sizing: border-box;
+}
+.component-548 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 488.9px;
+  left: 1119.46px;
+  width: 181px;
+  height: 39px;
+}
+.vector-icon292 {
+  position: absolute;
+  top: 748.51px;
+  left: 99.83px;
+  width: 190.13px;
+  height: 173.74px;
+}
+.tag-cap-person-2-child3 {
+  position: absolute;
+  top: 756px;
+  left: 125.23px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.person-5-wrapper46,
+.undraw-pic-profile-re-7g2h-5-icon48 {
+  position: absolute;
+  top: 742px;
+  left: 129.23px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-5-wrapper46 {
+  top: 830px;
+  left: 341.23px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 271px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.component-649 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 770px;
+  left: 383.23px;
+  width: 181px;
+  height: 39px;
+}
+.vector-icon293 {
+  position: absolute;
+  top: 748.46px;
+  left: 836.06px;
+  width: 190.13px;
+  height: 173.74px;
+}
+.tag-cap-person-2-child4 {
+  position: absolute;
+  top: 755.95px;
+  left: 861.46px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-gainsboro);
+  width: 139px;
+  height: 149px;
+}
+.person-6-wrapper45,
+.undraw-pic-profile-re-7g2h-6-icon48 {
+  position: absolute;
+  top: 741.95px;
+  left: 865.46px;
+  width: 126px;
+  height: 149px;
+  overflow: hidden;
+}
+.person-6-wrapper45 {
+  top: 829.95px;
+  left: 1077.46px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  width: 271px;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-10xs) var(--padding-69xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+.component-748 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 769.95px;
+  left: 1119.46px;
+  width: 181px;
+  height: 39px;
+}
+.tag-cap-person-2 {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 1024px;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-rationale);
+}
+@media screen and (max-width: 1200px) {
+  .captains-wrapper24 {
+    width: auto;
+    flex-direction: column;
+    padding-left: var(--padding-81xl);
+    padding-right: var(--padding-81xl);
+    box-sizing: border-box;
+  }
+}
